@@ -1,11 +1,8 @@
 gunicorn
 plotly
-os
-dash
 dash
 requests
 dash_renderer
-dash-bootstrap-components
 dash-html-components
 dash-core-components
 pandas
