@@ -13,7 +13,7 @@ calendar_lisbon = pd.read_csv('calendar_lisbon_clean.csv')
 calendar_paris = pd.read_csv('calendar_paris_clean.csv')
 calendar_amsterdam = pd.read_csv('calendar_amsterdam_clean.csv')
 listings_amsterdam = pd.read_csv('listings_amsterdam_clean.csv')
-listings_lisbon = pd.read_csv('listings_lisbon_cleansed.csv')
+listings_lisbon = pd.read_csv('listings_lisbon_clean.csv')
 listings_paris = pd.read_csv('listings_paris_clean.csv')
 
 superHost = ['Yes', 'No']
